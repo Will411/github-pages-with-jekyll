@@ -2,6 +2,9 @@
 title: "Will's Blog"
 date: 2020-06-15
 ---
+Snapchat: b4obama
+Instagram: w_i_l_l_0_3_3
+
 Brag sheet
 
 1. I play soccer. I have been playing for about eleven years now. I play for the township team. It is extremely fun and exciting.
