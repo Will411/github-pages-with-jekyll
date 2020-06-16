@@ -1,6 +1,6 @@
 ---
-title: "Will's Blog"
-date: 2020-06-15
+Title: "Will's Blog"
+Date: 2020-06-15
 ---
 
 Snapchat: b4obama
