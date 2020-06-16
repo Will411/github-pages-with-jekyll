@@ -1,13 +1,4 @@
-theme: minima
-title: Welcome to William's Blog
-author: William Anil
-email: wanil@ebnet.org
-description: > # this means to ignore newlines until "baseurl:"
-Here, I will talk about certain aspects of my life. I hope you enjoy!
+# Welcome to William's blog!
 
-# social links
-Snapchat: b4obama
-Instagram: w_i_l_l_0_3_3
-
-show_excerpts: true # set to false to remove excerpts on the homepage
+I'm glad you are here. I plan to talk a little bit about my life ...
 
